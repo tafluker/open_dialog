@@ -1,4 +1,4 @@
-# open_dialog box for windows in powershell
+# This code uses powershell to open a dialog box on Windows
 # paste code into the Powershell ISE
 
 #start
